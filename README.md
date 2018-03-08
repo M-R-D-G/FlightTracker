@@ -140,7 +140,7 @@ Thanks! :heart:
 
 ## :scroll: License
 
-[MIT][license] © [Ionică Bizău][website]
+
 
 [badge_patreon]: http://ionicabizau.github.io/badges/patreon.svg
 [badge_amazon]: http://ionicabizau.github.io/badges/amazon.svg
