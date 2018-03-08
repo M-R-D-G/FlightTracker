@@ -1,0 +1,54 @@
+{
+  "name": "flight-tracker",
+  "description": "A flight tracker in your command line.",
+  "bin": {
+    "flight-tracker": "./bin/flight-tracker.js"
+  },
+  "keywords": [
+    "flight",
+    "tracker",
+    "a",
+    "in",
+    "your",
+    "command",
+    "line"
+  ],
+  "license": "MIT",
+  "version": "1.0.8",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "scripts/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/flight-tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/flight-tracker/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/flight-tracker#readme",
+  "blah": {
+    "ex_img": "http://i.imgur.com/IBFNbJA.png",
+    "description": "Coded in the airport and on the plane. :airplane:"
+  },
+  "dependencies": {
+    "fillo": "^1.0.4",
+    "tilda": "^4.3.1"
+  }
+}
