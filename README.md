@@ -3,7 +3,7 @@
 
 # `$ flight-tracker`
 
- [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/flight-tracker.svg)](https://www.npmjs.com/package/flight-tracker) [![Downloads](https://img.shields.io/npm/dt/flight-tracker.svg)](https://www.npmjs.com/package/flight-tracker)
+ [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Version](https://img.shields.io/npm/v/flight-tracker.svg)](https://www.npmjs.com/package/flight-tracker) [![Downloads](https://img.shields.io/npm/dt/flight-tracker.svg)](https://www.npmjs.com/package/flight-tracker)
 
 > A flight tracker in your command line.
 
@@ -49,7 +49,7 @@ Options:
 Examples:
   $ flight-tracker '2016-05-26 18:05' '2016-05-26 21:15' 'Cluj-Napoca' 'Luton, London' -i 50 -d 20
 
-Documentation can be found at https://github.com/IonicaBizau/flight-tracker#readme.
+Documentation can be found at https://github.com/M-R-D-G/flight-tracker#readme.
 ```
 
 ## :clipboard: Example
@@ -107,7 +107,6 @@ There are few ways to get help:
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
 
- 3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
 
 
 
@@ -130,9 +129,8 @@ However, if you get some profit from this or just want to encourage me to contin
  - [![Buy me a book][badge_amazon]][amazon]—I love books! I will remember you after years if you buy me one. :grin: :book:
  - [![PayPal][badge_paypal]][paypal-donations]—You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
  - [![Support me on Patreon][badge_patreon]][patreon]—Set up a recurring monthly donation and you will get interesting news about what I'm doing (things that I don't share with everyone).
- - **Bitcoin**—You can send me bitcoins at this address (or scanning the code below): `1P9BRsmazNQcuyTxEqveUsnf5CERdq35V6`
 
-    ![](https://i.imgur.com/z6OQI95.png)
+   
 
 Thanks! :heart:
 
